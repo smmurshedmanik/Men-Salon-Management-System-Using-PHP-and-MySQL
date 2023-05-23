@@ -43,7 +43,7 @@ Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp 
 Open PHPMyAdmin (http://localhost/phpmyadmin)
 Create a database with name msmsdb
 Import msmsdb.sql file(given inside the zip package in SQL file folder)
-Run the script http://localhost/msms
+Run the script http://localhost/.........
 Admin Credential
 Username: admin
 Password: admin
